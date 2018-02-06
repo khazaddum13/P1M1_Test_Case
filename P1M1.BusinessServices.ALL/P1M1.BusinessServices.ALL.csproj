@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P1M1.BusinessServices.Interfaces\P1M1.BusinessServices.Interfaces.csproj" />
+    <ProjectReference Include="..\P1M1.Library\P1M1.Library.csproj" />
+  </ItemGroup>
+
+</Project>
